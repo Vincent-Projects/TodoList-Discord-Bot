@@ -1,6 +1,6 @@
 {
     "name": "todolist-discord-bot",
-    "version": "1.0.0",
+    "version": "0.1.0",
     "description": "This repo will be the discord bot for my server",
     "main": "index.js",
     "scripts": {
